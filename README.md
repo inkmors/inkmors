@@ -1,4 +1,4 @@
-## Oi! eu sou o Vinícius, conhecido como Mors, sou Full-Stack Developer
+## Opa! eu sou o Vinícius, conhecido como Mors, sou Full-Stack Developer
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 ultimamente estudando Flask

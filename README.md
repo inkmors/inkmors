@@ -8,7 +8,7 @@
   <img align="center" alt="Morusu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Morusu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Morusu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Morusu-Lua" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" alt="external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo"/>">
+  <img align="center" alt="Morusu-Lua" width="96" height="96" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" alt="external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo"/>
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/UCy78jFL1_XNE5A2GOaIRlZg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

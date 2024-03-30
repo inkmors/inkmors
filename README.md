@@ -1,7 +1,7 @@
 ## Opa! eu sou o Vinícius, conhecido como Morusu, sou Full-Stack Developer
 
-- 🔭 Hoje desenvolvo mais o front-end
-- 🌱 Ultimamente estudando Flask e PHP
+- 🔭 Hoje desenvolvo mais front-end,
+- 🌱 Ultimamente estudando Flask e PHP,
 - 📫 Contate-me no email: gvlima.contato@gmail.com
 - <div style="display: inline_block"><br>
   <img align="center" alt="Morusu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

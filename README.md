@@ -1,9 +1,10 @@
-## Hi! I'm Vinícius, known as Morusu, I'm a Full-Stack Developer
+## Hi! I'm Vinícius, known as Morusu, I'm a Full-Stack Developer and Illustrator/Graphic Designer
 
 - 🔭 Today I develop more front-end,
+- 🎨 I'm creating a mangá,
 - 🌱 Lately studying Flask and PHP,
-- 📫 Contact me at email: gvlima.contato@gmail.com
-- Languages and Softwares<div style="display: inline_block"><br>
+- 📫 Contact me at email: gvlima.contato@gmail.com,
+- 🔮 My skills:<div style="display: inline_block"><br>
   <img align="center" alt="Morusu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Morusu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Morusu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

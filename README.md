@@ -16,7 +16,7 @@
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/nolan/64/clip-studio-paint.png" alt="clip-studio-paint"/>
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
-  <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
+  <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" alt="adobe-after-effects--v1"/>
 </div>
 <div> 
   <a href="https://www.youtube.com/channel/UCy78jFL1_XNE5A2GOaIRlZg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>

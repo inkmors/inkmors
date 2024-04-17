@@ -3,12 +3,14 @@
 - 🔭 Today I develop more front-end,
 - 🌱 Lately studying Flask and PHP,
 - 📫 Contact me at email: gvlima.contato@gmail.com
-- <div style="display: inline_block"><br>
+- Languages and Softwares<div style="display: inline_block"><br>
   <img align="center" alt="Morusu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Morusu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Morusu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Morusu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Morusu-Js" height="30" width="40" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
   <img align="center" alt="Morusu-Lua" width="30" height="30" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" alt="external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo"/>
+  <img align="center" alt="Morusu-Lua" width="30" height="30" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/nolan/64/clip-studio-paint.png" alt="clip-studio-paint"/>

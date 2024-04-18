@@ -3,7 +3,7 @@
 - 🔭 Today I develop more front-end,
 - 🎨 I'm creating a mangá,
 - 🌱 Lately studying Flask and React JS,
-- 📫 Contact me at email: gvlima.contato@gmail.com,
+- 📫 Contact me at email: gvlima.contato@gmail.com
 - 🔮 My skills:<div style="display: inline_block"><br>
   <img align="center" alt="Morusu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Morusu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -2,7 +2,7 @@
 
 - 🔭 Today I develop more front-end,
 - 🎨 I'm creating a mangá,
-- 🌱 Lately studying Node Js and React Js,
+- 🌱 Lately studying TypeScript and React Js,
 - 📫 Contact me at email: gvlima.contato@gmail.com
 - 🔮 My skills:<div style="display: inline_block"><br>
   <img align="center" alt="Morusu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/demo/?weight=500&duration=4500&pause=700&color=F79A02&width=451&lines=%C2%BB+Hello+World!+I%C2%B4m+Vin%C3%ADcius+Lima+%C2%AB;%E2%9C%A6+Welcome+to+my+profile+%E2%9C%A6" alt="Typing SVG">
+  </a>
+</div>
 
 ## Hi! I'm Vinícius, known as Morusu, I'm a Full-Stack Developer and Illustrator/Graphic Designer
 

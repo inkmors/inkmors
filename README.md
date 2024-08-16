@@ -4,16 +4,19 @@
   </a>
 </div>
 
-## Hi! I'm Vinícius, known as Morusu, I'm a Full-Stack Developer and Illustrator/Graphic Designer
+<h2 align=center>I'm a Full-Stack Developer and Illustrator/Graphic Designer</h2>
 
-- 🔭 Today I develop more front-end,
-- 🎨 I'm creating a mangá,
-- 🌱 Lately studying TypeScript and React Js,
-- 📫 Contact me at email: gvlima.contato@gmail.com
+<img align="right" alt="" height="190px" src="./src/baixados.gif"><br>
+
+<div align="left">
+- 🔭 Today I develop more front-end,<br>
+- 🎨 I'm creating a mangá,<br>
+- 🌱 Lately studying TypeScript and React Js,<br>
+- 📫 Contact me at email: gvlima.contato@gmail.com<br>
+</div><br>
 
 #
 
-<img align="right" alt="" height="190px" src="./src/baixados.gif"><br>
 
 - 🔮 My skills:<div style="display: inline_block"><br>
   <img align="center" alt="Morusu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,6 +32,7 @@
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" alt="adobe-after-effects--v1"/>
   <img align="center" alt="Morusu-PS" width="30" height="30" src="https://img.icons8.com/nolan/64/clip-studio-paint.png" alt="clip-studio-paint"/>
 </div>
+
 <div> 
   <a href="https://www.youtube.com/channel/UCy78jFL1_XNE5A2GOaIRlZg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/morusu.ink/?next=%2F" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -41,20 +45,19 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
+  <h3>* GitHub Stats *</h3><br>
   <a href="https://github.com/inkmors">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=inkmors&theme=codeSTACKr&show_icons=true&rank_icon=github" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=inkmors&theme=codeSTACKr&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=fe8019"/>
   </a>
   <a href="https://github.com/inkmors">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inkmors&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr" />
+    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inkmors&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr&border_radius=10" />
   </a>
 </div>
 
 #
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/inkmors/inkmors/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inkmors/inkmors/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inkmors/inkmors/output/github-contribution-grid-snake.svg">
 </picture>

@@ -19,18 +19,7 @@
 
 <h3 align=center>»「 My skills 」«</h3>
 <div style="text-align: center;" align="center""><br>
-  <img align="center" alt="Morusu-Js" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Morusu-HTML" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Morusu-CSS" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Morusu-Python" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Morusu-Js" width="40" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/>
-  <img align="center" alt="Morusu-Lua" width="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo.png" alt="external-lua-is-a-lightweight-multi-paradigm-programming-language-logo-shadow-tal-revivo"/>
-  <img align="center" alt="Morusu-Lua" width="40" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-  <img align="center" alt="Morusu-PS" width="40" src="https://img.icons8.com/fluency/48/adobe-photoshop.png" alt="adobe-photoshop"/>
-  <img align="center" alt="Morusu-PS" width="40" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
-  <img align="center" alt="Morusu-PS" width="40" src="https://img.icons8.com/color/48/adobe-premiere-pro--v1.png" alt="adobe-premiere-pro--v1"/>
-  <img align="center" alt="Morusu-PS" width="40" src="https://img.icons8.com/color/48/adobe-after-effects--v1.png" alt="adobe-after-effects--v1"/>
-  <img align="center" alt="Morusu-PS" width="40" src="https://img.icons8.com/nolan/64/clip-studio-paint.png" alt="clip-studio-paint"/>
+  <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=html,css,bootstrap,js,py,c,lua,npm,nodejs,sqlite,figma,ps,ai,pr,ae">
 </div><br><br>
 
 <h3 align=center> »「 Socials 」«</h3><br>

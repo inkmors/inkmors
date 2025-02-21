@@ -38,6 +38,9 @@
   <a href="https://github.com/inkmors">
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=inkmors&theme=codeSTACKr&show_icons=true&rank_icon=github&border_radius=10&hide_title=true&icon_color=fe8019"/>
   </a>
+   <a href="https://github.com/inkmors">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=inkmors&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr&border_radius=10" />
+  </a>
  
 </div>
 

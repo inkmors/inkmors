@@ -11,7 +11,7 @@
 <div align="left">
 ⌜ 🔭 Today I develop more front-end,<br><br>
 ⌜ 🎨 I'm creating a mangá,<br><br>
-⌜ 🌱 Lately studying TypeScript, Node.js and Firebase,<br><br>
+⌜ 🌱 Lately studying TypeScript and Nest,<br><br>
 ⌜ 📫 Contact me at email: gvlima.contato@gmail.com<br>
 </div><br>
 
@@ -19,7 +19,7 @@
 
 <h3 align=center>»「 My skills 」«</h3>
 <div style="text-align: center;" align="center""><br>
-  <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=html,css,js,py,c,nodejs,react,tailwind,sqlite,vite,git,vercel,figma,ps">
+  <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=html,css,js,py,c,nodejs,react,tailwind,sqlite,firebase,vite,git,vercel,figma,ps">
 </div><br><br>
 
 <h3 align=center> »「 Socials 」«</h3><br>

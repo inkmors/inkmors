@@ -26,7 +26,7 @@
 <div style="text-align: center;" align="center"> 
   <a href="https://www.youtube.com/channel/UCy78jFL1_XNE5A2GOaIRlZg" target="_blank"><img width="140px" src="src/youtube.png" target="_blank"></a>
   <a href="https://www.instagram.com/morusu.ink/?next=%2F" target="_blank"><img width="140px" src="src/instagram.png" target="_blank"></a>
-  <a href="https://discord.gg/7zS4wEdtdk" target="_blank"><img width="140px" src="src/discord.png" target="_blank"></a> 
+<!--   <a href="https://discord.gg/7zS4wEdtdk" target="_blank"><img width="140px" src="src/discord.png" target="_blank"></a>  -->
   <a href="gvlima.contato@gmail.com"><img width="140px" src="src/gmail.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-lima-738603284/" target="_blank"><img width="140px" src="src/Linkedin.png" target="_blank"></a> 
 </div>

@@ -10,7 +10,7 @@
 
 <div align="left">
 ⌜ 🔭 Today I develop more front-end,<br><br>
-⌜ 🌱 Lately studying TypeScript and Nest,<br><br>
+⌜ 🌱 Lately studying TypeScript and Next,<br><br>
 ⌜ 📫 Contact me at email: gvlima.contato@gmail.com<br>
 </div><br>
 

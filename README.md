@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fff"/>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4500&pause=700&color=F76B04&width=451&lines=%C2%BB+Hello+World!+I%C2%B4m+Vin%C3%ADcius+Lima+%C2%AB;%E2%9C%A6+Welcome+to+my+profile!+%E2%9C%A6" alt="Typing SVG">
@@ -50,3 +52,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/inkmors/inkmors/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/inkmors/inkmors/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fff&height=100&section=footer"/>

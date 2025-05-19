@@ -43,6 +43,8 @@
     <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkmors&theme=graywhite&show_icons=true&hide_border=false&layout=compact" />
   </a>
 
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inkmors&langs_count=8&theme=graywhite" alt="Anurag's GitHub stats" align="right"></a>-->
+
   <!-- ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=inkmors&theme=graywhite&hide_border=false)-->
  
 </div>

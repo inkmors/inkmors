@@ -20,7 +20,7 @@
 
 <h3 align=center>»「 My skills 」«</h3>
 <div style="text-align: center;" align="center""><br>
-  <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=html,css,js,py,c,nodejs,react,tailwind,firebase,vite,git,vercel,figma">
+  <img align="center" alt="Morusu-Js" src="https://skillicons.dev/icons?i=html,css,js,py,c,nodejs,react,tailwind,bootstrap,firebase,vite,git,vercel,figma">
 </div><br><br>
 
 <h3 align=center> »「 Socials 」«</h3><br>

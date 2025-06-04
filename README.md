@@ -8,7 +8,7 @@
 
 <h2 align=center>» I'm a Full-Stack Developer and Illustrator/Graphic Designer «</h2><br>
 
-<img align="right" alt="" height="190px" src="./src/baixados.gif">
+<!-- <img align="right" alt="" height="190px" src="./src/baixados.gif">-->
 
 <div align="left">
 ⌜ 🔭 Today I develop more front-end,<br><br>

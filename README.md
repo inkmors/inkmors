@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou Inkmors!
 
-<!--
-**inkmors/inkmors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este é o perfil secundário de desenvolvimento do **[@morusudev](https://github.com/morusudev)**.
 
-Here are some ideas to get you started:
+Aqui você encontrará projetos paralelos, testes, experimentos e outras iniciativas que complementam o trabalho principal da conta principal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre
+
+- Conta secundária focada em projetos pessoais e experimentais  
+- Complementa o trabalho e portfólio do [morusudev](https://github.com/morusudev)  
+- Sinta-se à vontade para explorar os repositórios!
+
+---
+
+## Conecte-se
+
+Se quiser acompanhar o trabalho principal, visite:  
+➡️ [https://github.com/morusudev](https://github.com/morusudev)
+
+---
+
+Obrigado pela visita! 🚀

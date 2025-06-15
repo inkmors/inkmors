@@ -1,16 +1,8 @@
-# 👋 Olá, eu sou Inkmors!
+# 👋 Hi
 
 Este é o perfil secundário de desenvolvimento do **[@morusudev](https://github.com/morusudev)**.
 
 Aqui você encontrará projetos paralelos, testes, experimentos e outras iniciativas que complementam o trabalho principal da conta principal.
-
----
-
-## Sobre
-
-- Conta secundária focada em projetos pessoais e experimentais  
-- Complementa o trabalho e portfólio do [morusudev](https://github.com/morusudev)  
-- Sinta-se à vontade para explorar os repositórios!
 
 ---
 
